@@ -1,4 +1,4 @@
-# Agent_Bot
+
 # MIT Assignment – Discord QA Agent Bot
 
 This bot simulates an AI QA & Governance agent using simple commands.
